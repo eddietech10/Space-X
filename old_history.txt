@@ -1,7 +1,19 @@
-This is my history:
+Esta es la historia de Eddie, mi historia:
 
-I was born in Cali, Colombia.
+Hi! Soy Eddie, tengo 34 años y vivo en Madrid, España.
 
-Whe I was little I wasted to be a soccer player.
+edev10 es una persona que contribuye a este proyecto open source y nació en internet
 
-I studied in a mediocre school.
+Experiment 1
+
+Experiment 2
+
+Master 1
+
+Master 2
+
+Hoy vengo a hablarte sobre mi vida y obra maestra!
+
+Nueva línea para probar el segundo Pull Request
+
+Nueva línea para comprobar la actualización del fork en la cuenta de Eddev10

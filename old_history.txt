@@ -18,4 +18,4 @@ Nueva línea para probar el segundo Pull Request
 
 Nueva línea para comprobar la actualización del fork en la cuenta de Eddev10
 
-This is a modfication to prove git reset --soft
+This is a modfication to prove git checkout

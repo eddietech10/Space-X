@@ -2,8 +2,14 @@ This is my history:
 
 I was born in Cali, Colombia.
 
-When I was little I wasted to be a soccer player.
-
 I studied in a mediocre school of a poor neighborhood.
 
-This is a modfication to prove git checkout
+When I was little I wasted to be a soccer player.
+
+I was a very good soccer player!
+
+
+
+------------------------------------------------------
+
+This is the modification 2 to prove git reset ab14a41e0afd044351a41902ae08b09317e4f20c --soft

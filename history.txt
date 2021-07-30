@@ -13,3 +13,7 @@ I was a very good soccer player!
 ------------------------------------------------------
 
 This is the modification 2 to prove git reset ab14a41e0afd044351a41902ae08b09317e4f20c --soft
+
+This is the modification in STAGING to prove git reset ab14a41e0afd044351a41902ae08b09317e4f20c --soft
+
+This is the modification in STAGING of the commit: 6c08fec to prove: git reset 4b32a354c6df0416505dfe78ad930148b294b8dc --soft

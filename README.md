@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hyperblog
 An amazing blog for Git and Github course.
 
@@ -18,3 +19,7 @@ In this course we can find:
 To be continued...
 
 And as a reminder: **This readme.md is a joke** Designed as an example. If you get this far, DO NOT TAKE IT SERIOUSLY.
+=======
+# Space-X
+A blog for Space-X
+>>>>>>> b9cfd2720e51278f194fc529a1c839d2ed482920
